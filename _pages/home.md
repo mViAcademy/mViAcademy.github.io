@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: home
 title: Home
 permalink: /
 subtitle: /* Machine Vision & Virtual Instruments */

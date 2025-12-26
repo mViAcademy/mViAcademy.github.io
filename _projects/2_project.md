@@ -5,7 +5,7 @@ description: A Solution to inspect the quality of night vision device.
 img: assets/img/night-vision.png
 importance: 1
 category: Machine Vision
-giscus_comments: true
+# giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

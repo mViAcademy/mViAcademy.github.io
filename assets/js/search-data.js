@@ -437,7 +437,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-mvi-vision-framework-ver1-1",
+          section: "News",},{id: "projects-keyboard-vision-inspect-system",
+          title: 'Keyboard Vision Inspect system',
+          description: "A solution to inspect the computer keyboard quality before end of production line.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/001-KeyInspect/";
+            },},{id: "projects-mvi-vision-framework-ver1-1",
           title: 'mVi-Vision Framework Ver1.1',
           description: "An open source LabVIEW multi-task application framework developed by mVi Academy",
           section: "Projects",handler: () => {
@@ -477,11 +482,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-keyboard-vision-inspect-system",
-          title: 'Keyboard Vision Inspect system',
-          description: "A solution to inspect the computer keyboard quality before end of production line.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/project-key/";
             },},{
         id: 'social-cv',
         title: 'CV',

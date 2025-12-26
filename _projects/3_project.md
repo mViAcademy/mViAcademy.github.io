@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Keyboard Vision Inspect system
+description: A solution to inspect the computer keyboard quality before end of production line.
+img: assets/img/keyboard-Inspection.png
 redirect: https://unsplash.com
 importance: 3
 category: Machine Vision

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: Night Vision Device Inspection
+description: A Solution to inspect the quality of night vision device.
+img: assets/img/night-vision.png
+importance: 1
 category: Machine Vision
 giscus_comments: true
 ---

@@ -2,11 +2,11 @@
 layout: home
 title: Home
 permalink: /
-subtitle: /* Simplify the Machine Vision & Virtual Instruments Development Based on LabVIEW */
+subtitle: /* LabVIEW, Machine Vision & Virtual Instruments */
 
 profile:
   align: right
-  image: front2.png
+  image: front.png
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -26,16 +26,14 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Simplify Machine Vision & Virtual Instruments Development Based on LabVIEW 
-- Recommended books & related source code and video courses. 
-- Example source code, templates & Frameworks
-- Featured  tech column,articles& guide;
-- Hardware Datasheets & selection guidance;
-- eBooks, manuals, articles, developing resource in eLib; 
-- System design integration, consultant, training & complete solutions
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+mVi Academy simplifies the machine Vision and viirtual instruments development based on LabVIEW:
+- Complete solutions from design, develope, integration to deployment.
+- Open source mVi Academy templates & Frameworks
+- Training and consultant based own published bookes.
+- Recommended books, source code and video courses. 
+- Library of Hardware Datasheets, eBooks, manuals, and development tools; 
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->

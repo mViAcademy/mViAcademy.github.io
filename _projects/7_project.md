@@ -2,7 +2,7 @@
 layout: page
 title: Fruit Quality Control
 description: A Solution to control fruit quality based on machine vision
-img: assets/img/4.jpg
+img: assets/img/Orange.png
 importance: 3
 category: Machine Vision
 related_publications: true

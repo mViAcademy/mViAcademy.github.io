@@ -5,7 +5,7 @@ nav: true
 nav_order: 3
 dropdown: true
 children:
-  - title: blog
+  - title: Blog
     permalink: /blog/
   - title: divider
   - title: Library
@@ -14,6 +14,6 @@ children:
   - title: Reading
     permalink: /reading/
   - title: divider
-  - title: Dev Tools
+  - title: Software Tools
     permalink: /devtools/
 ---

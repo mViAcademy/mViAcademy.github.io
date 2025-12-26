@@ -1,12 +1,12 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: /* Machine Vision & Virtual Instruments */
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: B2-cover2.png
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>

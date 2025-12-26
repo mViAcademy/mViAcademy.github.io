@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-home",
-    title: "home",
+    title: "Home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/solutions/";
           },
         },{id: "dropdown-blog",
-              title: "blog",
+              title: "Blog",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -44,8 +44,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/reading/";
               },
-            },{id: "dropdown-dev-tools",
-              title: "Dev Tools",
+            },{id: "dropdown-software-tools",
+              title: "Software Tools",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -57,13 +57,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/about/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
           },
         },{id: "post-a-post-with-plotly-js",
         

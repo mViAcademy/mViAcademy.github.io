@@ -1,13 +1,32 @@
 ---
-layout: book-shelf
-title: bookshelf
+layout: profiles
 permalink: /books/
-nav: false
-collection: books
+title: Books
+description: Machine Vision & LabVIEW Books published by mVi Academy
+nav: true
+nav_order: 1
+
+profiles:
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
+  - align: right
+    image: LvMV1.png
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    # more_info: >
+    #   <p>555 your office number</p>
+    #   <p>123 your address street</p>
+    #   <p>Your City, State 12345</p>
+  - align: left
+    image: LvDev2.png
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    # more_info: >
+    #   <p>555 your office number</p>
+    #   <p>123 your address street</p>
+    #   <p>Your City, State 12345</p>
+  - align: right
+    image: LvDev1.png
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
 ---
-
-> What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic.
->
-> -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
-
-## Books that I am reading, have read, or will read

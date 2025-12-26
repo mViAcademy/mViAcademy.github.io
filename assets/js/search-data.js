@@ -447,11 +447,6 @@ ninja.data = [{
           description: "A Solution to inspect the quality of night vision device.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-keyboard-vision-inspect-system",
-          title: 'Keyboard Vision Inspect system',
-          description: "A solution to inspect the computer keyboard quality before end of production line.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project-key/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
@@ -482,6 +477,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-keyboard-vision-inspect-system",
+          title: 'Keyboard Vision Inspect system',
+          description: "A solution to inspect the computer keyboard quality before end of production line.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project-key/";
             },},{
         id: 'social-cv',
         title: 'CV',

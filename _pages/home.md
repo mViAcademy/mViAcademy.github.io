@@ -6,7 +6,7 @@ subtitle: /* Simplify the Machine Vision & Virtual Instruments Development Based
 
 profile:
   align: right
-  image: cover.png
+  image: front2.png
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>

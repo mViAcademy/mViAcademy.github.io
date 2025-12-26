@@ -5,7 +5,7 @@ permalink: /solutions/
 description: A growing collection of Machine Vision & Virtual Instruments Solutions.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Machine Vision, Virtual Instruments]
 horizontal: false
 ---
 

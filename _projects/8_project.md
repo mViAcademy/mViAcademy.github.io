@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
+title: Railway Signaling System Equipment Monitoring System 
+description: A solution to monitor the Railway Signaling System Equipment
+img: assets/img/SigMonitor.png
 importance: 2
 category: Machine Vision
 giscus_comments: true

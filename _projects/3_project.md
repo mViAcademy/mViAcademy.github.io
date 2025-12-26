@@ -3,8 +3,8 @@ layout: page
 title: Keyboard Vision Inspect system
 description: A solution to inspect the computer keyboard quality before end of production line.
 img: assets/img/keyboard-Inspection.png
-redirect: https://unsplash.com
-importance: 3
+# redirect: https://unsplash.com
+importance: 1
 category: Machine Vision
 ---
 

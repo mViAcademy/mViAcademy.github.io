@@ -437,19 +437,19 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-mvi-vifw1-1",
-          title: 'mVi-viFW1.1',
+          section: "News",},{id: "projects-mvi-visionfw1-1",
+          title: 'mVi-VisionFW1.1',
           description: "An open source LabVIEW multi-task application framework developed by mVi Academy",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-night-vision-device-inspection",
+          title: 'Night Vision Device Inspection',
+          description: "A Solution to inspect the quality of night vision device.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-keyboard-vision-inspect-system",
+          title: 'Keyboard Vision Inspect system',
+          description: "A solution to inspect the computer keyboard quality before end of production line.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",

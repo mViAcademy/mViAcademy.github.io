@@ -2,7 +2,7 @@
 layout: page
 title: mVi-viFW1.1
 description: An open source LabVIEW multi-task application framework developed by mVi Academy
-img: assets/img/mVi-FW-vision.png
+img: assets/img/vision-inspection.jpg
 importance: 1
 category: Machine Vision
 related_publications: true

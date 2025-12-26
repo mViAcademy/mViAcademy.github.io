@@ -467,14 +467,14 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-fruit-quality-control",
+          title: 'Fruit Quality Control',
+          description: "A Solution to control fruit quality based on machine vision",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-railway-signaling-system-equipment-monitoring-system",
+          title: 'Railway Signaling System Equipment Monitoring System',
+          description: "A solution to monitor the Railway Signaling System Equipment",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",

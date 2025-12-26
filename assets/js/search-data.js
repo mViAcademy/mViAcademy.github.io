@@ -437,8 +437,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-mvi-visionfw1-1",
-          title: 'mVi-VisionFW1.1',
+          section: "News",},{id: "projects-mvi-vision-framework-ver1-1",
+          title: 'mVi-Vision Framework Ver1.1',
           description: "An open source LabVIEW multi-task application framework developed by mVi Academy",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
@@ -462,8 +462,8 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-fruit-quality-control",
-          title: 'Fruit Quality Control',
+            },},{id: "projects-fruit-quality-inspection",
+          title: 'Fruit Quality Inspection',
           description: "A Solution to control fruit quality based on machine vision",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";

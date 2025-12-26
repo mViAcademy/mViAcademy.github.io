@@ -1,6 +1,6 @@
 ---
 layout: page
-title: mVi-VisionFW1.1
+title: mVi-Vision Framework Ver1.1
 description: An open source LabVIEW multi-task application framework developed by mVi Academy
 img: assets/img/front4.png
 importance: 1

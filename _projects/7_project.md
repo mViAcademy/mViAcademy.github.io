@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fruit Quality Control
+title: Fruit Quality Inspection
 description: A Solution to control fruit quality based on machine vision
 img: assets/img/Orange.png
 importance: 3

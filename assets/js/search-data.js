@@ -451,6 +451,11 @@ ninja.data = [{
           title: 'Keyboard Vision Inspect system',
           description: "A solution to inspect the computer keyboard quality before end of production line.",
           section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project-no-pic/";
+            },},{id: "projects-keyboard-vision-inspect-system",
+          title: 'Keyboard Vision Inspect system',
+          description: "A solution to inspect the computer keyboard quality before end of production line.",
+          section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',

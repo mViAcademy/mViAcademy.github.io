@@ -2,7 +2,7 @@
 layout: page
 title: mVi-Vision Framework Ver1.1
 description: An open source LabVIEW multi-task application framework developed by mVi Academy
-img: assets/img/front4.png
+img: assets/img/visonFW.png
 importance: 1
 category: Machine Vision
 related_publications: true

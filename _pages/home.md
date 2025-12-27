@@ -8,8 +8,7 @@ profile:
   image: front.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Image Processing, Analysis and Machine Vision(based on LabVIEW)</p>
-    <p>Tsinghua University Press, ISBN: 987-7-302-49641-0 · Jun 1, 2018</p>
+    <p>Image Processing, Analysis and Machine Vision(based on LabVIEW), Tsinghua University Press, ISBN: 987-7-302-49641-0 · Jun 1, 2018</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

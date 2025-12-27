@@ -2,8 +2,7 @@
 layout: home
 title: Home
 permalink: /
-subtitle: /* LabVIEW, Machine Vision & Virtual Instruments */
-
+subtitle: <b> /* LabVIEW, Machine Vision & Virtual Instruments */ </b>
 profile:
   align: right
   image: front.png

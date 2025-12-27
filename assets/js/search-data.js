@@ -441,7 +441,7 @@ ninja.data = [{
           title: 'mVi-Vision Framework Ver1.1',
           description: "An open source LabVIEW multi-task application framework developed by mVi Academy",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/001_mVi-visionFW/";
+              window.location.href = "/projects/001_visionFW/";
             },},{id: "projects-keyboard-vision-inspect-system",
           title: 'Keyboard Vision Inspect system',
           description: "A solution to inspect the computer keyboard quality before end of production line.",

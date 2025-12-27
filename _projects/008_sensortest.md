@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IC In-Circuit Tester
+title: Sensor IC In-Circuit Tester
 description: A virtual Instrument system to conduct semiconductor senor "End of Production Line(EOL)" functional test during mass production 🎉
 img: assets/img/Senortest.png
 importance: 4

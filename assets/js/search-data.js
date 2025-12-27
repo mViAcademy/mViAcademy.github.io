@@ -437,56 +437,51 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-mvi-vision-framework-ver1-1",
-          title: 'mVi-Vision Framework Ver1.1',
-          description: "An open source LabVIEW multi-task application framework developed by mVi Academy",
+          section: "News",},{id: "projects-mvi-vision-framework-v1-1",
+          title: 'mVi Vision Framework V1.1',
+          description: "An open source LabVIEW vision multi-task application framework developed by mVi Academy",
           section: "Projects",handler: () => {
               window.location.href = "/projects/001_visionFW/";
-            },},{id: "projects-keyboard-vision-inspect-system",
-          title: 'Keyboard Vision Inspect system',
-          description: "A solution to inspect the computer keyboard quality before end of production line.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/002-KeyInspect/";
-            },},{id: "projects-night-vision-device-inspection",
-          title: 'Night Vision Device Inspection',
-          description: "A Solution to inspect the quality of night vision device.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/003_nighvision/";
-            },},{id: "projects-signaling-equipment-monitoring",
-          title: 'Signaling Equipment Monitoring',
-          description: "A solution to monitor the Signaling Equipment based on machine vision",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/004_SigSys/";
-            },},{id: "projects-fruit-quality-inspection",
-          title: 'Fruit Quality Inspection',
-          description: "A Solution to control fruit quality based on machine vision",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/005_Fruit/";
             },},{id: "projects-pharmaceutical-defect-detection",
           title: 'Pharmaceutical Defect Detection',
           description: "A Machine vision based Solution to Detect Pharmaceutical Defects",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/006_medical/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/002_medical/";
+            },},{id: "projects-signaling-equipment-monitoring",
+          title: 'Signaling Equipment Monitoring',
+          description: "A solution to monitor the Signaling Equipment based on machine vision",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/003_SigSys/";
+            },},{id: "projects-night-vision-device-inspection",
+          title: 'Night Vision Device Inspection',
+          description: "A Solution to inspect the quality of night vision device.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+              window.location.href = "/projects/004_nighvision/";
+            },},{id: "projects-keyboard-vision-inspect-system",
+          title: 'Keyboard Vision Inspect system',
+          description: "A solution to inspect the computer keyboard quality before end of production line.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+              window.location.href = "/projects/005-KeyInspect/";
+            },},{id: "projects-fruit-quality-inspection",
+          title: 'Fruit Quality Inspection',
+          description: "A Solution to control fruit quality based on machine vision",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/006_Fruit/";
+            },},{id: "projects-mvi-multiloop-framework-v1-2",
+          title: 'mVi MultiLoop Framework V1.2',
+          description: "An open source LabVIEW multi-task application framework developed by mVi Academy.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/007_viFW/";
+            },},{id: "projects-ic-in-circuit-tester",
+          title: 'IC In-Circuit Tester',
+          description: "A virtual Instrument system to conduct semiconductor senor &quot;End of Production Line(EOL)&quot; functional test during mass production 🎉",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/008_sensortest/";
+            },},{id: "projects-avionic-flow-valve-tester",
+          title: 'Avionic Flow Valve Tester',
+          description: "A virtual instrument system to conduct the flow valve &quot;End of Production Line(EOL)&quot; function test during mass production. 🎉",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/008_valve/";
             },},{
         id: 'social-cv',
         title: 'CV',

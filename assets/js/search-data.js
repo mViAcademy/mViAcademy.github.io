@@ -472,8 +472,8 @@ ninja.data = [{
           description: "An open source LabVIEW multi-task application framework developed by mVi Academy.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/007_viFW/";
-            },},{id: "projects-ic-in-circuit-tester",
-          title: 'IC In-Circuit Tester',
+            },},{id: "projects-sensor-ic-in-circuit-tester",
+          title: 'Sensor IC In-Circuit Tester',
           description: "A virtual Instrument system to conduct semiconductor senor &quot;End of Production Line(EOL)&quot; functional test during mass production 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/008_sensortest/";

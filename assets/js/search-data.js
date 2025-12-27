@@ -437,21 +437,36 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-keyboard-vision-inspect-system",
-          title: 'Keyboard Vision Inspect system',
-          description: "A solution to inspect the computer keyboard quality before end of production line.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/001-KeyInspect/";
-            },},{id: "projects-mvi-vision-framework-ver1-1",
+          section: "News",},{id: "projects-mvi-vision-framework-ver1-1",
           title: 'mVi-Vision Framework Ver1.1',
           description: "An open source LabVIEW multi-task application framework developed by mVi Academy",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/001_mVi-visionFW/";
+            },},{id: "projects-keyboard-vision-inspect-system",
+          title: 'Keyboard Vision Inspect system',
+          description: "A solution to inspect the computer keyboard quality before end of production line.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/002-KeyInspect/";
             },},{id: "projects-night-vision-device-inspection",
           title: 'Night Vision Device Inspection',
           description: "A Solution to inspect the quality of night vision device.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/003_nighvision/";
+            },},{id: "projects-signaling-equipment-monitoring",
+          title: 'Signaling Equipment Monitoring',
+          description: "A solution to monitor the Signaling Equipment based on machine vision",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/004_SigSys/";
+            },},{id: "projects-fruit-quality-inspection",
+          title: 'Fruit Quality Inspection',
+          description: "A Solution to control fruit quality based on machine vision",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/005_Fruit/";
+            },},{id: "projects-pharmaceutical-defect-detection",
+          title: 'Pharmaceutical Defect Detection',
+          description: "A Machine vision based Solution to Detect Pharmaceutical Defects",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/006_medical/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
@@ -467,16 +482,6 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-fruit-quality-inspection",
-          title: 'Fruit Quality Inspection',
-          description: "A Solution to control fruit quality based on machine vision",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-railway-signaling-system-equipment-monitoring-system",
-          title: 'Railway Signaling System Equipment Monitoring System',
-          description: "A solution to monitor the Railway Signaling System Equipment",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",

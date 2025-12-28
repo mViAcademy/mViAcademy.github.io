@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: LvMV1.png
-    content: lv-mv.md
+    content: LvMV.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Image Processing, Analysis and Machine Vision(based on LabVIEW), Tsinghua University Press, ISBN: 987-7-302-49641-0 · Jun 1, 2018</p>

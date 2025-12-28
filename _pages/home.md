@@ -29,7 +29,8 @@ Our mission is to accelerate engineering productivity, reduce development comple
 - **Open‑source mVi Academy <a href="/solutions/">frameworks and templates</a>** engineered for scalable, modular, and maintainable LabVIEW applications.
 - **Expert‑led training and consulting** built on our <a href="/books/">own published technical books</a> and industry‑proven methodologies.
 - **Curated technical resources** including <a href="/reading/">recommended books</a>, reusable source code modules, and structured video courses for accelerated learning.
-- **A comprehensive <a href="/library/">engineering library</a>** featuring hardware datasheets, eBooks, manuals, and <a href="/devtools/">development tools</a> to support rapid prototyping and system optimization.<br><br>
+- **A comprehensive <a href="/library/">engineering library</a>** featuring hardware datasheets, eBooks, manuals, and <a href="/devtools/">development tools</a> to support rapid prototyping and system optimization.
+
 mVi Academy is built for LabVIEW developers, machine vision engineers, automation teams, and educators who need reliable, scalable tools for vision and test‑system development. They choose mVi Academy to reduce development time, lower engineering effort, and leverage proven frameworks backed by expert guidance and practical resources.
  
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

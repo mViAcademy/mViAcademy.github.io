@@ -426,16 +426,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-mvi-academy-announcement-with-detials",
+          title: 'mVi Academy announcement with detials.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-happy-holiday-and-welcome-to-2026-mvi-vision-framework-and-mvi-multiloop-framework-now-free-for-all",
+          title: 'Happy holiday and welcome to 2026! mVi Vision Framework and mVi multiLoop Framework...',
+          description: "",
+          section: "News",},{id: "news-mvi-academy-now-on-github-sparkles-smile",
+          title: 'mVi Academy now on github! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-mvi-vision-framework-v1-1",
           title: 'mVi Vision Framework V1.1',

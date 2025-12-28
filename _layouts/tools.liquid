@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-{% unless site.data.resume %}
-  <div class="post">
+{% unless site.data.tools %}
+  /* <div class="post">
     <header class="post-header">
       <h1 class="post-title">
         {{ page.title }}
@@ -51,7 +51,7 @@ layout: default
         {% endfor %}
       </div>
     </article>
-  </div>
+  </div> */
 {% else %}
   <div class="post">
     <header class="post-header">
@@ -79,9 +79,9 @@ layout: default
 
     <article>
       <div class="cv">
-        {% for data in site.data.resume %}
-          {% if site.jsonresume and site.jsonresume.size > 0 %}
-            {% unless site.jsonresume contains data[0] %}
+        {% for data in site.data.tools %}
+          {% if site.jsontools and site.jsontools.size > 0 %}
+            {% unless site.jsontools contains data[0] %}
               {% continue %}
             {% endunless %}
           {% endif %}

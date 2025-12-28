@@ -646,3 +646,16 @@ jsonresume:
   - languages
   - interests
   - references
+jsontools:
+  - basics
+  #- work
+  - education
+  - publications
+  - projects
+  - volunteer
+  - awards
+  - certificates
+  - skills
+  - languages
+  - interests
+  - references

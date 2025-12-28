@@ -11,20 +11,20 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: LvMV1.png
-    content: LvMV.md
+    content: LvMV1.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Image Processing, Analysis and Machine Vision(based on LabVIEW), Tsinghua University Press, ISBN: 987-7-302-49641-0 · Jun 1, 2018</p>
+    # more_info: >
+    #   <p>Image Processing, Analysis and Machine Vision(based on LabVIEW), Tsinghua University Press, ISBN: 987-7-302-49641-0 · Jun 1, 2018</p>
   - align: left
     image: LvDev2.png
-    content: about_einstein.md
+    content: LvDev2.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>LabVIEW Virtual Instruments Project Development & Practice, Tsinghua University Press, ISBN: 978-7-302-603238 · Jul 15, 2022</p>
+    # more_info: >
+    #   <p>LabVIEW Virtual Instruments Project Development & Practice, Tsinghua University Press, ISBN: 978-7-302-603238 · Jul 15, 2022</p>
   - align: right
     image: LvDev1.png
-    content: about_einstein.md
+    content: LvDev1.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>LabVIEW Virtual Instruments Project Development and Management, China Machine Press, ISBN 978-7-111-36804-5 · Jan 1, 2012</p>
+    # more_info: >
+    #   <p>LabVIEW Virtual Instruments Project Development and Management, China Machine Press, ISBN 978-7-111-36804-5 · Jan 1, 2012</p>
 ---

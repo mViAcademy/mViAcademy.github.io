@@ -44,12 +44,19 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/reading/";
               },
+            },{id: "dropdown-development-tools",
+              title: "Development Tools",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/devtools/";
+              },
             },{id: "dropdown-software-tools",
               title: "Software Tools",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/devtools/";
+                window.location.href = "/tools/";
               },
             },{id: "nav-about",
           title: "About",
@@ -57,13 +64,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/about/";
-          },
-        },{id: "nav-tools",
-          title: "Tools",
-          description: "List of development software tools.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/tools/";
           },
         },{id: "post-a-post-with-plotly-js",
         

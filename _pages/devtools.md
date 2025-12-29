@@ -6,7 +6,7 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: false
 # nav_order: 6
 display_categories: [Machine Vision, Virtual Instruments]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->

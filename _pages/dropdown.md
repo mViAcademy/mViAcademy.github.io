@@ -14,6 +14,9 @@ children:
   - title: Reading
     permalink: /reading/
   - title: divider
-  - title: Software Tools
+  - title: Development Tools
     permalink: /devtools/
+  - title: divider
+  - title: Software Tools
+    permalink: /tools/
 ---

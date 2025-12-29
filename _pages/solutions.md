@@ -6,7 +6,7 @@ description: A growing collection of Machine Vision & Virtual Instruments Soluti
 nav: true
 nav_order: 2
 display_categories: [Machine Vision, Virtual Instruments]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->

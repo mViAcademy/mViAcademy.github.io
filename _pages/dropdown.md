@@ -19,4 +19,7 @@ children:
   - title: divider
   - title: Software Tools
     permalink: /tools/
+  - title: divider
+  - title: Software List
+    permalink: /swlist/
 ---

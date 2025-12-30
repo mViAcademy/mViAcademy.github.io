@@ -15,7 +15,7 @@ description: List of Software used by mVi.
             <li><a href="test.html" style="color: black">Software Platform Bunddle Software Platform Bunddle Software Platform Bunddle</a></li>
         </ul>
     </div>
-    <div style="flex: 2;">
+    <div style="flex: 1;">
     <h2>Macine Vision</h2>
         <ul>
             <li><a href="#">Vision Development Module</a></li>
@@ -24,7 +24,7 @@ description: List of Software used by mVi.
             <li><a href="test.html">clasVision Development Module</a></li>
         </ul>
     </div>
-    <div style="flex: 3;">
+    <div style="flex: 1;">
     <h2>C++</h2>
         <ul>
             <li><a href="#">Vision Development Module</a></li>
@@ -44,7 +44,7 @@ description: List of Software used by mVi.
             <li><a href="test.html">Software Platform Bunddle</a></li>
         </ul>
     </div>
-    <div style="flex: 2;">
+    <div style="flex: 1;">
     <h2>Macine Vision</h2>
         <ul>
             <li><a href="#">Vision Development Module</a></li>
@@ -53,7 +53,7 @@ description: List of Software used by mVi.
             <li><a href="test.html">clasVision Development Module</a></li>
         </ul>
     </div>
-    <div style="flex: 3;">
+    <div style="flex: 1;">
     <h2>C++</h2>
         <ul>
             <li><a href="#">Vision Development Module</a></li>

@@ -63,3 +63,22 @@ description: List of Software used by mVi.
         </ul>
     </div>
 </div>
+
+<div style="display: flex; gap: 20px;">
+  <div>
+  <h3>test</h3>
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ul>
+  </div>
+  <div>
+    <h3>test</h3>
+    <ul>
+      <li>Item A</li>
+      <li>Item B</li>
+      <li>Item C</li>
+    </ul>
+  </div>
+</div>
